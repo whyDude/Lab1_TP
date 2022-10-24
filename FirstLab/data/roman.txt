@@ -1,0 +1,14 @@
+2
+name
+surname
+patronymic
+0 1 0
+-
+Second
+Second
+Second
+1024287 1047870 3
+d
+dd
+ddd
+Cool_guy

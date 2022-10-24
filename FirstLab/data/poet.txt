@@ -1,0 +1,19 @@
+3
+name
+surname
+patronymic
+0 1 0
+First
+First
+First
+927 1406 3
+d
+dd
+ddd
+Markus
+Fedorovich
+Andreevich
+1024287 1044798 3
+Not_firts
+Third
+Second_reborn
